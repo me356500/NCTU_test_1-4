@@ -1,5 +1,6 @@
 # NCTU上機考
-After rains, there would be some water trapped by terrain, and we want to know about what is the maximal water it could trap, write a C program about it.
+After rains, there would be some water trapped by terrain.<br>
+And we want to know about what is the maximal water it could trap, write a C program about it.<br>
 # Input_1
 12<br>
 0 1 0 2 1 0 1 3 2 1 2 1
